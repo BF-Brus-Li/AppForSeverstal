@@ -5,7 +5,7 @@ val tasksList = mutableListOf<String>()
 var userName = ""
 
 fun main() {
-    println("Welcome to \"TasksListForSeverstal\"! ")
+    println("Welcome to \"AppForSeverstal\"! ")
 
     println("Enter your name: ")
     userName = readln()
